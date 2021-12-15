@@ -1,0 +1,2503 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+.clr {
+	clear: both;
+}
+
+ul {
+	list-style: none;
+}
+
+img {
+	vertical-align: middle;
+}
+
+/* =============================================================
+Header Starts
+================================================================ */
+
+.Header-bg {
+
+	width: 100%;
+	Height: 50px;
+	background-color: #ffffff;
+}
+
+.Header-bg .Header-content {
+	width: 960px;
+	height: 50px;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+
+.Header-bg .Header-content .conact {
+	width: 400px;
+	height: 50px;
+	background-color: #fff9f9;
+	float: left;
+
+}
+
+.Header-bg .Header-content .conact p {
+	width: 400px;
+	height: 50px;
+	background-color: #ffffff;
+	float: left;
+	line-height: 50px;
+	font-family: monospace;
+	font-size: 15px;
+
+}
+
+
+.Header-bg .Header-content .blank-space {
+	width: 410px;
+	height: 50px;
+	background-color: #ffffff;
+	float: left;
+
+}
+
+
+.Header-bg .Header-content .menu-button a:hover {
+
+	background-color: #9D71BF;
+
+}
+
+.Header-bg .Header-content .menu-button a {
+	background-color: #FF6D4C;
+	color: #ffffff;
+	text-align: center;
+	text-transform: capitalize;
+	padding: 10px 15px;
+	margin-top: 6px;
+	transition: all linear 0.4s;
+	display: inline-block;
+	border-radius: 3px;
+
+
+
+
+}
+
+/* ===========================================================
+Header Ends
+============================================================== */
+
+
+
+/* ===========================================================
+Menu Starts
+============================================================== */
+
+
+.Menu-bg {
+
+	width: 100%;
+	Height: 100px;
+	background-color: #563F4F;
+}
+
+
+.Menu-bg .menu-content {
+
+	width: 960px;
+	height: 100px;
+	background-color: #563F4F;
+	margin: 0 auto;
+}
+
+.Menu-bg .menu-content .logo {
+
+	width: 230px;
+	height: 100px;
+	background-color: #563F4F;
+	float: left;
+}
+
+.Menu-bg .menu-content .logo a img {
+	width: 100%;
+	height: 100px;
+}
+
+.Menu-bg .menu-content .menu {
+
+	width: 730px;
+	height: 100px;
+	background-color: #563F4F;
+	float: left;
+
+}
+
+.Menu-bg .menu-content .menu ul {
+	list-style-type: none;
+	margin-left: 20px;
+
+}
+
+.Menu-bg .menu-content .menu ul li {
+	float: left;
+	display: block;
+
+
+}
+
+
+.Menu-bg .menu-content .menu ul li a {
+	color: #ffffff;
+	text-decoration: none;
+	text-transform: capitalize;
+	padding: 0 20px;
+	margin: 0 5px;
+	line-height: 100px;
+	font-size: 20px;
+	transition: all linear 0.4s;
+
+
+
+}
+
+.Menu-bg .menu-content .menu ul li a:hover {
+	color: #ffd23a;
+
+}
+
+
+
+/* =================================================================
+Menu Ends
+==================================================================== */
+
+
+
+/* =================================================================
+Banner start
+==================================================================== */
+
+.Banner-bg {
+	width: 100%;
+	height: 500px;
+	margin: 0 auto;
+	background-image: url(../images/banner.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+}
+
+.Banner-bg .overlay {
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	background-color: rgba(0, 0, 0, 0.7);
+
+}
+
+.Banner-bg .overlay .content-bg {
+	width: 960px;
+	height: 500px;
+	margin: 0 auto;
+	padding-top: 200px;
+
+}
+
+.Banner-bg .overlay .content-bg h1 {
+	color: white;
+	display: block;
+	text-align: center;
+	font-family: sans-serif;
+
+}
+
+.Banner-bg .overlay .content-bg h2 {
+	color: white;
+	font-size: 50px;
+	display: block;
+	text-align: center;
+	font-family: cursive;
+}
+
+.Banner-bg .overlay .content-bg h2 span {
+	background-color: azure;
+	color: #563F4F;
+	display: inline-block;
+	padding: 10px 20px;
+	border-radius: 3px;
+}
+
+.Banner-bg .overlay .content-bg a {
+	background-color: #563F4F;
+	color: #ffffff;
+	text-align: center;
+	padding: 10px 20px;
+	margin-left: 400px;
+	transition: all linear 0.4s;
+	display: inline-block;
+	border-radius: 3px;
+
+}
+
+.Banner-bg .overlay .content-bg a:hover {
+	background-color: #C4A2FC;
+
+}
+
+/* =================================================================
+Banner Ends
+==================================================================== */
+
+
+
+/* =================================================================
+People-choose start
+==================================================================== */
+
+
+
+.People-Choose-bg {
+	width: 100%;
+	Height: 650px;
+	background-color: #F5F5F5;
+	margin: 0 auto;
+}
+
+.People-Choose-bg .content p {
+	color: #ff2f0a;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 100px;
+	font-family: serif;
+}
+
+.People-Choose-bg .content01 p {
+	color: #1d1d1d;
+	text-align: center;
+	font-size: 50px;
+	font-family: sans-serif;
+}
+
+
+.Box {
+	width: 960px;
+	Height: 600px;
+	margin: 0 auto;
+}
+
+.Box .Box-1 {
+	width: 225px;
+	Height: 250px;
+	background-color: #ffffff;
+	float: left;
+	margin: 40px 20px 0px 0px;
+	box-sizing: border-box;
+	transition: all linear 0.4s;
+}
+
+
+.Box .Box-1 img {
+	width: 100;
+	Height: 120px;
+	padding-top: 10px;
+	padding-left: 62px;
+	padding-right: 63px;
+
+}
+
+.Box .Box-1 p {
+	color: #2a2a2a;
+	text-align: center;
+	font-size: 15px;
+	font-family: sans-serif;
+}
+
+.Box .Box-1 .bold {
+	color: #262626;
+	text-align: center;
+	font-size: 20px;
+	font-family: monospace;
+}
+
+
+
+.Box .Box-2 {
+	width: 225;
+	Height: 250px;
+	background-color: #ffffff;
+	float: left;
+	margin: 40px 20px 0px 0px;
+	box-sizing: border-box;
+	transition: all linear 0.4s;
+}
+
+
+.Box .Box-2 img {
+	width: 100;
+	Height: 120px;
+	padding-top: 10px;
+	padding-left: 62px;
+	padding-right: 63px;
+
+}
+
+.Box .Box-2 p {
+	color: #2a2a2a;
+	text-align: center;
+	font-size: 15px;
+	font-family: sans-serif;
+}
+
+.Box .Box-2 .bold {
+	color: #262626;
+	text-align: center;
+	font-size: 20px;
+	font-family: monospace;
+}
+
+
+.Box .Box-3 {
+	width: 225;
+	Height: 250px;
+	background-color: #ffffff;
+	float: left;
+	margin: 40px 20px 0px 0px;
+	box-sizing: border-box;
+	transition: all linear 0.4s;
+}
+
+
+.Box .Box-3 img {
+	width: 100;
+	Height: 120px;
+	padding-top: 10px;
+	padding-left: 62px;
+	padding-right: 63px;
+
+}
+
+.Box .Box-3 p {
+	color: #2a2a2a;
+	text-align: center;
+	font-size: 15px;
+	font-family: sans-serif;
+}
+
+.Box .Box-3 .bold {
+	color: #262626;
+	text-align: center;
+	font-size: 20px;
+	font-family: monospace;
+}
+
+
+.Box .Box-4 {
+	width: 225;
+	Height: 250px;
+	background-color: #ffffff;
+	float: left;
+	margin: 40px 0px 0px 0px;
+	box-sizing: border-box;
+	transition: all linear 0.4s;
+}
+
+
+.Box .Box-4 img {
+	width: 100;
+	Height: 120px;
+	padding-top: 10px;
+	padding-left: 62px;
+	padding-right: 63px;
+
+
+}
+
+.Box .Box-4 p {
+	color: #2a2a2a;
+	text-align: center;
+	font-size: 15px;
+	font-family: sans-serif;
+}
+
+
+.Box .Box-4 .bold {
+	color: #262626;
+	text-align: center;
+	font-size: 20px;
+	font-family: monospace;
+}
+
+
+/* =============================================================
+People-choose ends
+================================================================ */
+
+
+
+/* ============================================================
+banner02 starts
+=============================================================== */
+
+
+.Banner02-bg {
+	width: 100%;
+	Height: 600px;
+	background-color: #F9FCFF;
+}
+
+.Banner02-bg .Banner02-content {
+	width: 960px;
+	Height: 400px;
+	background-color: #F9FCFF;
+	margin: 0 auto;
+
+}
+
+
+.Banner02-content .text {
+	width: 480px;
+	Height: 400px;
+	background-color: #F9FCFF;
+	float: left;
+	margin-top: 150px;
+}
+
+.Banner02-content .picture {
+	width: 450px;
+	Height: 400px;
+	float: left;
+	margin-top: 150px;
+	margin-left: 30px;
+
+}
+
+
+
+.Banner02-content .text p {
+	font-size: 20px;
+	color: #ff5e3a;
+	font-family: serif;
+
+}
+
+.Banner02-content .bold p {
+	font-size: 60px;
+	color: #303030;
+	font-family: fantasy;
+}
+
+.Banner02-content .text2 p {
+	font-size: 15px;
+	color: black;
+	font-family: sans-serif;
+	padding-top: 10px;
+}
+
+.Banner02-bg .Banner02-content .text2 a {
+	background-color: #563F4F;
+	color: #ffffff;
+	text-align: center;
+	padding: 10px 30px;
+	transition: all linear 0.4s;
+	display: inline-block;
+	border-radius: 3px;
+
+}
+
+.Banner02-bg .Banner02-content a:hover {
+	background-color: #C4A2FC;
+
+}
+
+
+
+/* ===========================================================
+banner02 ends
+============================================================== */
+
+
+
+/* ==========================================================
+Banner03 start
+============================================================== */
+
+.Banner03-bg {
+	width: 100%;
+	height: 600px;
+	margin: 0 auto;
+	background-image: url(../images/banner03.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+}
+
+.Banner03-bg .overlay {
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	background-color: rgba(0, 0, 0, 0.7);
+
+}
+
+.Banner03-bg .overlay .Banner03-content {
+	width: 960px;
+	height: 600px;
+	margin: 0 auto;
+}
+
+.Banner03-bg .overlay .Banner03-content .Box-1 {
+	width: 550px;
+	height: 400px;
+	background-color: #563F4F;
+	float: left;
+	margin-top: 100px;
+}
+
+.Banner03-bg .overlay .Banner03-content .Box-1 h1 {
+
+	font-size: 40px;
+	font-family: sans-serif;
+	color: White;
+	display: inline-block;
+	margin-left: 35px;
+	margin-right: 20px;
+	margin-top: 45px;
+
+}
+
+.Banner03-bg .overlay .Banner03-content .Box-1 p {
+
+	font-size: 20px;
+	font-family: sans-serif;
+	color: White;
+	display: inline-block;
+	margin-left: 35px;
+	margin-right: 10px;
+	margin-top: 30px;
+
+}
+
+.Banner03-bg .overlay .Banner03-content .Box-1 .text {
+	margin-left: 35px;
+	margin-top: 30px;
+}
+
+
+.Banner03-bg .overlay .Banner03-content .Box-1 a {
+	background-color: #FF6D4C;
+	color: #ffffff;
+	text-align: center;
+	text-transform: capitalize;
+	padding: 5px 10px;
+	margin-left: 35px;
+	margin-top: 5px;
+	border: 2px solid white;
+	transition: all linear 0.4s;
+	display: inline-block;
+	border-radius: 3px;
+
+}
+
+.Banner03-bg .overlay .Banner03-content .Box-1 a:hover {
+
+	background-color: #9D71BF;
+
+}
+
+
+
+/* ==========================================================
+Banner03 Ends
+============================================================= */
+
+
+
+/* ==========================================================
+services Starts
+============================================================= */
+
+
+.Services-bg {
+	width: 100%;
+	Height: 250px;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+
+.Services-bg .content p {
+	color: #ff2f0a;
+	text-align: center;
+	font-size: 18px;
+	padding-top: 100px;
+	font-family: sans-serif;
+}
+
+.Services-bg .content01 p {
+	color: #1d1d1d;
+	text-align: center;
+	font-size: 50px;
+	font-family: sans-serif;
+}
+
+.Service-box {
+	width: 100%;
+	height: 600px;
+	background-color: #ffffff;
+}
+
+.Service-box-bg {
+	width: 960px;
+	height: 600px;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+
+.Service-box-bg .box-1 {
+	height: 150px;
+	width: 470px;
+	background-color: #F7F7F7;
+	float: left;
+	border-radius: 15px;
+	transition: all linear 0.6s;
+
+
+}
+
+.Service-box-bg .box-1:hover {
+	border: 3px solid tomato;
+	box-sizing: border-box;
+
+}
+
+.Service-box-bg .box-1 .img {
+	height: 100px;
+	width: 100px;
+	background-image: url(../images/tap.jpeg);
+	background-repeat: no-repeat;
+	margin: 25px;
+
+}
+
+.Service-box-bg .box-1 .img .content h1 {
+	height: 30px;
+	width: 310px;
+	color: #563F4F;
+	display: block;
+	margin-left: 140px;
+	margin-top: 15px;
+	font-size: 25px;
+	font-family: sans-serif;
+
+
+}
+
+.Service-box-bg .box-1 .img .content p {
+	height: 100px;
+	width: 310px;
+	color: #563F4F;
+	display: block;
+	margin-left: 140px;
+	color: #333434;
+	font-family: sans-serif;
+}
+
+
+.Service-box-bg .box-2 {
+	height: 150px;
+	width: 470px;
+	background-color: #F7F7F7;
+	float: left;
+	margin-left: 20px;
+	border-radius: 15px;
+	transition: all linear 0.6s;
+}
+
+.Service-box-bg .box-2:hover {
+	border: 3px solid tomato;
+	box-sizing: border-box;
+}
+
+.Service-box-bg .box-2 .img {
+	height: 100px;
+	width: 100px;
+	background-image: url(../images/cup.jpeg);
+	background-repeat: no-repeat;
+	margin: 25px;
+
+}
+
+.Service-box-bg .box-2 .img .content h1 {
+	height: 30px;
+	width: 310px;
+	color: #563F4F;
+	display: block;
+	margin-left: 140px;
+	margin-top: 15px;
+	font-size: 25px;
+	font-family: sans-serif;
+
+}
+
+.Service-box-bg .box-2 .img .content p {
+	height: 100px;
+	width: 310px;
+	color: #563F4F;
+	display: block;
+	margin-left: 140px;
+	color: #333434;
+	font-family: sans-serif;
+}
+
+.Service-box-bg .box-3 {
+	height: 150px;
+	width: 470px;
+	background-color: #F7F7F7;
+	float: left;
+	margin-top: 30px;
+	border-radius: 15px;
+	transition: all linear 0.6s;
+}
+
+.Service-box-bg .box-3:hover {
+	border: 3px solid tomato;
+	box-sizing: border-box;
+}
+
+.Service-box-bg .box-3 .img {
+	height: 100px;
+	width: 100px;
+	background-image: url(../images/education.jpeg);
+	background-repeat: no-repeat;
+	margin: 25px;
+
+}
+
+.Service-box-bg .box-3 .img .content h1 {
+	height: 30px;
+	width: 310px;
+	color: #563F4F;
+	display: block;
+	margin-left: 140px;
+	margin-top: 15px;
+	font-size: 25px;
+	font-family: sans-serif;
+
+}
+
+.Service-box-bg .box-3 .img .content p {
+	height: 100px;
+	width: 310px;
+	color: #563F4F;
+	display: block;
+	margin-left: 140px;
+	color: #333434;
+	font-family: sans-serif;
+}
+
+.Service-box-bg .box-4 {
+	height: 150px;
+	width: 470px;
+	background-color: #F7F7F7;
+	float: left;
+	margin-left: 20px;
+	margin-top: 30px;
+	border-radius: 15px;
+	transition: all linear 0.6s;
+}
+
+.Service-box-bg .box-4:hover {
+	border: 3px solid tomato;
+	box-sizing: border-box;
+}
+
+
+.Service-box-bg .box-4 .img {
+	height: 100px;
+	width: 100px;
+	background-image: url(../images/watch.jpeg);
+	background-repeat: no-repeat;
+	margin: 25px;
+
+}
+
+.Service-box-bg .box-4 .img .content h1 {
+	height: 30px;
+	width: 310px;
+	color: #563F4F;
+	display: block;
+	margin-left: 140px;
+	margin-top: 15px;
+	font-size: 25px;
+	font-family: sans-serif;
+}
+
+.Service-box-bg .box-4 .img .content p {
+	height: 100px;
+	width: 310px;
+	color: #563F4F;
+	display: block;
+	margin-left: 140px;
+	color: #333434;
+	font-family: sans-serif;
+}
+
+.Service-box-bg .box-5 {
+	height: 150px;
+	width: 470px;
+	background-color: #F7F7F7;
+	float: left;
+	margin-top: 30px;
+	border-radius: 15px;
+	transition: all linear 0.6s;
+}
+
+.Service-box-bg .box-5:hover {
+	border: 3px solid tomato;
+	box-sizing: border-box;
+}
+
+.Service-box-bg .box-5 .img {
+	height: 100px;
+	width: 100px;
+	background-image: url(../images/cloths.jpeg);
+	background-repeat: no-repeat;
+	margin: 25px;
+
+}
+
+.Service-box-bg .box-5 .img .content h1 {
+	height: 30px;
+	width: 310px;
+	color: #563F4F;
+	display: block;
+	margin-left: 140px;
+	margin-top: 15px;
+	font-size: 25px;
+	font-family: sans-serif;
+
+}
+
+.Service-box-bg .box-5 .img .content p {
+	height: 100px;
+	width: 310px;
+	color: #563F4F;
+	display: block;
+	margin-left: 140px;
+	color: #333434;
+	font-family: sans-serif;
+}
+
+.Service-box-bg .box-6 {
+	height: 150px;
+	width: 470px;
+	background-color: #F7F7F7;
+	float: left;
+	margin-left: 20px;
+	margin-top: 30px;
+	border-radius: 15px;
+	transition: all linear 0.6s;
+}
+
+
+.Service-box-bg .box-6:hover {
+	border: 3px solid tomato;
+	box-sizing: border-box;
+}
+
+
+.Service-box-bg .box-6 .img {
+	height: 100px;
+	width: 100px;
+	background-image: url(../images/tap.jpeg);
+	background-repeat: no-repeat;
+	margin: 25px;
+
+}
+
+.Service-box-bg .box-6 .img .content h1 {
+	height: 30px;
+	width: 310px;
+	color: #563F4F;
+	display: block;
+	margin-left: 140px;
+	margin-top: 15px;
+	font-size: 25px;
+	font-family: sans-serif;
+
+}
+
+.Service-box-bg .box-6 .img .content p {
+	height: 100px;
+	width: 310px;
+	color: #563F4F;
+	display: block;
+	margin-left: 140px;
+	color: #333434;
+	font-family: sans-serif;
+}
+
+
+
+/* ===========================================================
+services Ends
+============================================================== */
+
+
+
+/* ===========================================================
+Causes Starts
+============================================================== */
+
+
+.Causes-bg {
+	height: 200px;
+	width: 100%;
+	background-color: #ededed;
+}
+
+.Causes-bg .Causes-content {
+	text-align: center;
+	color: #222222;
+	font-family: sans-serif;
+	font-size: 18px;
+
+}
+
+.Causes-bg .Causes-content span {
+	background-color: #C4A2FC;
+	color: white;
+	padding-top: 1px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 1px;
+	border-right: 5px solid #222222;
+}
+
+.Causes-bg .Causes-content p {
+	text-align: center;
+	color: #535353;
+	font-family: sans-serif;
+	font-size: 15px;
+
+}
+
+
+.Box-bg {
+	width: 100%;
+	height: 1200px;
+	background-color: #ededed;
+}
+
+/*=================================================Content-01 starts============================================================ */
+
+.Box-bg .Box-content-01 {
+	width: 960px;
+	height: 600px;
+	margin: 0 auto;
+	background-color: ;
+}
+
+
+.Box-bg .Box-content-01 .Box-01 {
+	width: 300px;
+	height: 550px;
+	float: left;
+	background-color: #ffffff;
+}
+
+.Box-bg .Box-content-01 .Box-01 .img {
+	width: 300px;
+	height: 250px;
+	background-image: url(../images/g1.jpg);
+	background-size: cover;
+
+}
+
+
+.Box-bg .Box-content-01 .Box-01 .content {
+	width: 300px;
+	height: 250px;
+
+}
+
+.Box-bg .Box-content-01 .Box-01 .content .top {
+	width: 300px;
+	height: 50px;
+
+}
+
+.Box-bg .Box-content-01 .Box-01 .content .top h2 {
+	display: inline-block;
+	font-family: sans-serif;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+
+.Box-bg .Box-content-01 .Box-01 .content .center {
+	width: 300px;
+	height: 150px;
+	border-top: 1px solid gray;
+	box-sizing: border-box;
+
+}
+
+.Box-bg .Box-content-01 .Box-01 .content .center .btn-01 {
+	display: block;
+	font-size: 15px;
+	background-color: aqua;
+	float: left;
+	padding: 8px;
+	margin-top: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-01 .Box-01 .content .center .btn-02 {
+	display: block;
+	font-size: 15px;
+	background-color: tomato;
+	float: left;
+	padding: 8px;
+	margin-top: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-01 .Box-01 .content .center p {
+	display: block;
+	font-size: 15px;
+	margin-top: 35px;
+	margin-left: 15px;
+	color: #747474;
+}
+
+.Box-bg .Box-content-01 .Box-01 .content .center .percentage {
+	width: 270px;
+	height: 20px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-01 .Box-01 .content .center .percentage .per-01 {
+	width: 170px;
+	height: 20px;
+	background-color: orangered;
+	float: left;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.Box-bg .Box-content-01 .Box-01 .content .center .percentage .per-01 span {
+	display: block;
+	color: aliceblue;
+	padding-left: 70px;
+
+}
+
+
+.Box-bg .Box-content-01 .Box-01 .content .center .percentage .per-02 {
+	width: 100px;
+	height: 20px;
+	background-color: #cbcbcb;
+	float: left;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+
+.Box-bg .Box-content-01 .Box-01 .content .bottom {
+	width: 300px;
+	height: 50px;
+	box-sizing: border-box;
+}
+
+.Box-bg .Box-content-01 .Box-01 .content .bottom p {
+	display: block;
+	margin-left: 15px;
+
+}
+
+.Box-bg .Box-content-01 .Box-01 .btn {
+	width: 270px;
+	height: 40px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+	background-color: #563F4F;
+	transition: all linear 0.4s;
+
+}
+
+.Box-bg .Box-content-01 .Box-01 .btn a {
+	display: inline-block;
+	margin-left: 110px;
+	margin-top: 10px;
+	color: aliceblue;
+
+}
+
+.Box-bg .Box-content-01 .Box-01 .btn:hover {
+	background-color: #C4A2FC;
+}
+
+
+
+
+
+
+
+.Box-bg .Box-content-01 .Box-02 {
+	width: 300px;
+	height: 550px;
+	float: left;
+	margin-left: 30px;
+	background-color: #ffffff;
+}
+
+.Box-bg .Box-content-01 .Box-02 .img {
+	width: 300px;
+	height: 250px;
+	background-image: url(../images/cloth.png);
+	background-size: cover;
+
+}
+
+
+.Box-bg .Box-content-01 .Box-02 .content {
+	width: 300px;
+	height: 250px;
+
+}
+
+.Box-bg .Box-content-01 .Box-02 .content .top {
+	width: 300px;
+	height: 50px;
+
+}
+
+.Box-bg .Box-content-01 .Box-02 .content .top h2 {
+	display: inline-block;
+	font-family: sans-serif;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+
+.Box-bg .Box-content-01 .Box-02 .content .center {
+	width: 300px;
+	height: 150px;
+	border-top: 1px solid gray;
+	box-sizing: border-box;
+
+}
+
+.Box-bg .Box-content-01 .Box-02 .content .center .btn-01 {
+	display: block;
+	font-size: 15px;
+	background-color: aqua;
+	float: left;
+	padding: 8px;
+	margin-top: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-01 .Box-02 .content .center .btn-02 {
+	display: block;
+	font-size: 15px;
+	background-color: tomato;
+	float: left;
+	padding: 8px;
+	margin-top: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-01 .Box-02 .content .center p {
+	display: block;
+	font-size: 15px;
+	margin-top: 35px;
+	margin-left: 15px;
+	color: #747474;
+}
+
+.Box-bg .Box-content-01 .Box-02 .content .center .percentage {
+	width: 270px;
+	height: 20px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-01 .Box-02 .content .center .percentage .per-01 {
+	width: 170px;
+	height: 20px;
+	background-color: orangered;
+	float: left;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.Box-bg .Box-content-01 .Box-02 .content .center .percentage .per-01 span {
+	display: block;
+	color: aliceblue;
+	padding-left: 70px;
+
+}
+
+
+.Box-bg .Box-content-01 .Box-02 .content .center .percentage .per-02 {
+	width: 100px;
+	height: 20px;
+	background-color: #cbcbcb;
+	float: left;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+
+.Box-bg .Box-content-01 .Box-02 .content .bottom {
+	width: 300px;
+	height: 50px;
+	box-sizing: border-box;
+}
+
+.Box-bg .Box-content-01 .Box-02 .content .bottom p {
+	display: block;
+	margin-left: 15px;
+
+}
+
+.Box-bg .Box-content-01 .Box-02 .btn {
+	width: 270px;
+	height: 40px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+	background-color: #563F4F;
+	transition: all linear 0.4s;
+
+}
+
+.Box-bg .Box-content-01 .Box-02 .btn a {
+	display: inline-block;
+	margin-left: 110px;
+	margin-top: 10px;
+	color: aliceblue;
+
+}
+
+.Box-bg .Box-content-01 .Box-02 .btn:hover {
+	background-color: #C4A2FC;
+}
+
+
+
+
+
+
+
+.Box-bg .Box-content-01 .Box-03 {
+	width: 300px;
+	height: 550px;
+	float: left;
+	margin-left: 30px;
+	background-color: #ffffff;
+}
+
+.Box-bg .Box-content-01 .Box-03 .img {
+	width: 300px;
+	height: 250px;
+	background-image: url(../images/food.png);
+	background-size: cover;
+
+}
+
+
+.Box-bg .Box-content-01 .Box-03 .content {
+	width: 300px;
+	height: 250px;
+
+}
+
+.Box-bg .Box-content-01 .Box-03 .content .top {
+	width: 300px;
+	height: 50px;
+
+}
+
+.Box-bg .Box-content-01 .Box-03 .content .top h2 {
+	display: inline-block;
+	font-family: sans-serif;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+
+.Box-bg .Box-content-01 .Box-03 .content .center {
+	width: 300px;
+	height: 150px;
+	border-top: 1px solid gray;
+	box-sizing: border-box;
+
+}
+
+.Box-bg .Box-content-01 .Box-03 .content .center .btn-01 {
+	display: block;
+	font-size: 15px;
+	background-color: aqua;
+	float: left;
+	padding: 8px;
+	margin-top: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-01 .Box-03 .content .center .btn-02 {
+	display: block;
+	font-size: 15px;
+	background-color: tomato;
+	float: left;
+	padding: 8px;
+	margin-top: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-01 .Box-03 .content .center p {
+	display: block;
+	font-size: 15px;
+	margin-top: 35px;
+	margin-left: 15px;
+	color: #747474;
+}
+
+.Box-bg .Box-content-01 .Box-03 .content .center .percentage {
+	width: 270px;
+	height: 20px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-01 .Box-03 .content .center .percentage .per-01 {
+	width: 170px;
+	height: 20px;
+	background-color: orangered;
+	float: left;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.Box-bg .Box-content-01 .Box-03 .content .center .percentage .per-01 span {
+	display: block;
+	color: aliceblue;
+	padding-left: 70px;
+
+}
+
+
+.Box-bg .Box-content-01 .Box-03 .content .center .percentage .per-02 {
+	width: 100px;
+	height: 20px;
+	background-color: #cbcbcb;
+	float: left;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+
+.Box-bg .Box-content-01 .Box-03 .content .bottom {
+	width: 300px;
+	height: 50px;
+	box-sizing: border-box;
+}
+
+.Box-bg .Box-content-01 .Box-03 .content .bottom p {
+	display: block;
+	margin-left: 15px;
+
+}
+
+.Box-bg .Box-content-01 .Box-03 .btn {
+	width: 270px;
+	height: 40px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+	background-color: #563F4F;
+	transition: all linear 0.4s;
+
+}
+
+.Box-bg .Box-content-01 .Box-03 .btn a {
+	display: inline-block;
+	margin-left: 110px;
+	margin-top: 10px;
+	color: aliceblue;
+
+}
+
+.Box-bg .Box-content-01 .Box-03 .btn:hover {
+	background-color: #C4A2FC;
+}
+
+
+
+/*=================================================Content-01 Ends============================================================ */
+
+
+
+/*=================================================Content-02 starts============================================================ */
+
+.Box-bg .Box-content-02 {
+	width: 960px;
+	height: 600px;
+	margin: 0 auto;
+	background-color: ;
+}
+
+
+.Box-bg .Box-content-02 .Box-01 {
+	width: 300px;
+	height: 550px;
+	float: left;
+	background-color: #ffffff;
+}
+
+.Box-bg .Box-content-02 .Box-01 .img {
+	width: 300px;
+	height: 250px;
+	background-image: url(../images/g1.jpg);
+	background-size: cover;
+
+}
+
+
+.Box-bg .Box-content-02 .Box-01 .content {
+	width: 300px;
+	height: 250px;
+
+}
+
+.Box-bg .Box-content-02 .Box-01 .content .top {
+	width: 300px;
+	height: 50px;
+
+}
+
+.Box-bg .Box-content-02 .Box-01 .content .top h2 {
+	display: inline-block;
+	font-family: sans-serif;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+
+.Box-bg .Box-content-02 .Box-01 .content .center {
+	width: 300px;
+	height: 150px;
+	border-top: 1px solid gray;
+	box-sizing: border-box;
+
+}
+
+.Box-bg .Box-content-02 .Box-01 .content .center .btn-01 {
+	display: block;
+	font-size: 15px;
+	background-color: aqua;
+	float: left;
+	padding: 8px;
+	margin-top: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-02 .Box-01 .content .center .btn-02 {
+	display: block;
+	font-size: 15px;
+	background-color: tomato;
+	float: left;
+	padding: 8px;
+	margin-top: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-02 .Box-01 .content .center p {
+	display: block;
+	font-size: 15px;
+	margin-top: 35px;
+	margin-left: 15px;
+	color: #747474;
+}
+
+.Box-bg .Box-content-02 .Box-01 .content .center .percentage {
+	width: 270px;
+	height: 20px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-02 .Box-01 .content .center .percentage .per-01 {
+	width: 170px;
+	height: 20px;
+	background-color: orangered;
+	float: left;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.Box-bg .Box-content-02 .Box-01 .content .center .percentage .per-01 span {
+	display: block;
+	color: aliceblue;
+	padding-left: 70px;
+
+}
+
+
+.Box-bg .Box-content-02 .Box-01 .content .center .percentage .per-02 {
+	width: 100px;
+	height: 20px;
+	background-color: #cbcbcb;
+	float: left;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+
+.Box-bg .Box-content-02 .Box-01 .content .bottom {
+	width: 300px;
+	height: 50px;
+	box-sizing: border-box;
+}
+
+.Box-bg .Box-content-02 .Box-01 .content .bottom p {
+	display: block;
+	margin-left: 15px;
+
+}
+
+.Box-bg .Box-content-02 .Box-01 .btn {
+	width: 270px;
+	height: 40px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+	background-color: #563F4F;
+	transition: all linear 0.4s;
+
+}
+
+.Box-bg .Box-content-02 .Box-01 .btn a {
+	display: inline-block;
+	margin-left: 110px;
+	margin-top: 10px;
+	color: aliceblue;
+
+}
+
+.Box-bg .Box-content-02 .Box-01 .btn:hover {
+	background-color: #C4A2FC;
+}
+
+
+
+
+
+
+
+
+.Box-bg .Box-content-02 .Box-02 {
+	width: 300px;
+	height: 550px;
+	float: left;
+	margin-left: 30px;
+	background-color: #ffffff;
+
+}
+
+.Box-bg .Box-content-02 .Box-02 .img {
+	width: 300px;
+	height: 250px;
+	background-image: url(../images/cloth.png);
+	background-size: cover;
+
+}
+
+
+.Box-bg .Box-content-02 .Box-02 .content {
+	width: 300px;
+	height: 250px;
+
+}
+
+.Box-bg .Box-content-02 .Box-02 .content .top {
+	width: 300px;
+	height: 50px;
+
+}
+
+.Box-bg .Box-content-02 .Box-02 .content .top h2 {
+	display: inline-block;
+	font-family: sans-serif;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+
+.Box-bg .Box-content-02 .Box-02 .content .center {
+	width: 300px;
+	height: 150px;
+	border-top: 1px solid gray;
+	box-sizing: border-box;
+
+}
+
+.Box-bg .Box-content-02 .Box-02 .content .center .btn-01 {
+	display: block;
+	font-size: 15px;
+	background-color: aqua;
+	float: left;
+	padding: 8px;
+	margin-top: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-02 .Box-02 .content .center .btn-02 {
+	display: block;
+	font-size: 15px;
+	background-color: tomato;
+	float: left;
+	padding: 8px;
+	margin-top: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-02 .Box-02 .content .center p {
+	display: block;
+	font-size: 15px;
+	margin-top: 35px;
+	margin-left: 15px;
+	color: #747474;
+}
+
+.Box-bg .Box-content-02 .Box-02 .content .center .percentage {
+	width: 270px;
+	height: 20px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-02 .Box-02 .content .center .percentage .per-01 {
+	width: 170px;
+	height: 20px;
+	background-color: orangered;
+	float: left;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.Box-bg .Box-content-02 .Box-02 .content .center .percentage .per-01 span {
+	display: block;
+	color: aliceblue;
+	padding-left: 70px;
+
+}
+
+
+.Box-bg .Box-content-02 .Box-02 .content .center .percentage .per-02 {
+	width: 100px;
+	height: 20px;
+	background-color: #cbcbcb;
+	float: left;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+
+.Box-bg .Box-content-02 .Box-02 .content .bottom {
+	width: 300px;
+	height: 50px;
+	box-sizing: border-box;
+}
+
+.Box-bg .Box-content-02 .Box-02 .content .bottom p {
+	display: block;
+	margin-left: 15px;
+
+}
+
+.Box-bg .Box-content-02 .Box-02 .btn {
+	width: 270px;
+	height: 40px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+	background-color: #563F4F;
+	transition: all linear 0.4s;
+
+}
+
+.Box-bg .Box-content-02 .Box-02 .btn a {
+	display: inline-block;
+	margin-left: 110px;
+	margin-top: 10px;
+	color: aliceblue;
+
+}
+
+.Box-bg .Box-content-02 .Box-02 .btn:hover {
+	background-color: #C4A2FC;
+}
+
+
+
+
+
+
+
+.Box-bg .Box-content-02 .Box-03 {
+	width: 300px;
+	height: 550px;
+	float: left;
+	margin-left: 30px;
+	background-color: #ffffff;
+
+}
+
+.Box-bg .Box-content-02 .Box-03 .img {
+	width: 300px;
+	height: 250px;
+	background-image: url(../images/food.png);
+	background-size: cover;
+
+}
+
+
+.Box-bg .Box-content-02 .Box-03 .content {
+	width: 300px;
+	height: 250px;
+
+}
+
+.Box-bg .Box-content-02 .Box-03 .content .top {
+	width: 300px;
+	height: 50px;
+
+}
+
+.Box-bg .Box-content-02 .Box-03 .content .top h2 {
+	display: inline-block;
+	font-family: sans-serif;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+
+.Box-bg .Box-content-02 .Box-03 .content .center {
+	width: 300px;
+	height: 150px;
+	border-top: 1px solid gray;
+	box-sizing: border-box;
+
+}
+
+.Box-bg .Box-content-02 .Box-03 .content .center .btn-01 {
+	display: block;
+	font-size: 15px;
+	background-color: aqua;
+	float: left;
+	padding: 8px;
+	margin-top: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-02 .Box-03 .content .center .btn-02 {
+	display: block;
+	font-size: 15px;
+	background-color: tomato;
+	float: left;
+	padding: 8px;
+	margin-top: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-02 .Box-03 .content .center p {
+	display: block;
+	font-size: 15px;
+	margin-top: 35px;
+	margin-left: 15px;
+	color: #747474;
+}
+
+.Box-bg .Box-content-02 .Box-03 .content .center .percentage {
+	width: 270px;
+	height: 20px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+
+.Box-bg .Box-content-02 .Box-03 .content .center .percentage .per-01 {
+	width: 170px;
+	height: 20px;
+	background-color: orangered;
+	float: left;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.Box-bg .Box-content-02 .Box-03 .content .center .percentage .per-01 span {
+	display: block;
+	color: aliceblue;
+	padding-left: 70px;
+
+}
+
+
+.Box-bg .Box-content-02 .Box-03 .content .center .percentage .per-02 {
+	width: 100px;
+	height: 20px;
+	background-color: #cbcbcb;
+	float: left;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+
+.Box-bg .Box-content-02 .Box-03 .content .bottom {
+	width: 300px;
+	height: 50px;
+	box-sizing: border-box;
+}
+
+.Box-bg .Box-content-02 .Box-03 .content .bottom p {
+	display: block;
+	margin-left: 15px;
+
+}
+
+.Box-bg .Box-content-02 .Box-03 .btn {
+	width: 270px;
+	height: 40px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	border-radius: 5px;
+	background-color: #563F4F;
+	transition: all linear 0.4s;
+
+}
+
+.Box-bg .Box-content-02 .Box-03 .btn a {
+	display: inline-block;
+	margin-left: 110px;
+	margin-top: 10px;
+	color: aliceblue;
+
+}
+
+.Box-bg .Box-content-02 .Box-03 .btn:hover {
+	background-color: #C4A2FC;
+}
+
+/*=================================================Content-02 Ends============================================================ */
+
+
+
+/* ===========================================================
+Causes Ends
+============================================================== */
+
+
+
+
+
+
+/* ===========================================================
+volunteer Starts
+============================================================== */
+
+
+.volunteer-bg {
+	height: 700px;
+	width: 100%;
+	background-color: #ededed;
+
+}
+
+.volunteer-bg .volunteer-content {
+	text-align: center;
+	color: #222222;
+	font-family: sans-serif;
+	font-size: 18px;
+	padding-top: 50px;
+
+
+}
+
+.volunteer-bg .volunteer-content span {
+	background-color: #C4A2FC;
+	color: white;
+	padding-top: 1px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 1px;
+	border-right: 5px solid #222222;
+}
+
+.volunteer-bg .volunteer-content p {
+	text-align: center;
+	color: #535353;
+	font-family: sans-serif;
+	font-size: 15px;
+
+}
+
+.volunteer-img {
+	width: 960px;
+	height: 600px;
+	margin: 0 auto;
+	padding-top: 50px;
+
+}
+
+.volunteer-img .box-01 {
+	width: 300px;
+	height: 500px;
+	background-color: #563F4F;
+	color: aliceblue;
+	float: left;
+	transition: all linear 0.6s;
+
+}
+
+.volunteer-img .box-01:hover {
+	background-color: #C4A2FC;
+}
+
+.volunteer-img .box-01 .image {
+	width: 300px;
+	height: 400px;
+	background-image: url(../images/volunteer01.png);
+	background-size: cover;
+
+}
+
+.volunteer-img .box-01 .details h3 {
+	display: block;
+	font-family: sans-serif;
+	font-size: 25px;
+	margin-top: 20px;
+	margin-left: 100px;
+
+}
+
+
+.volunteer-img .box-01 .title {
+	display: inline-block;
+	font-family: sans-serif;
+	margin-top: 20px;
+	margin-left: 120px;
+}
+
+
+
+
+
+
+
+.volunteer-img .box-02 {
+	width: 300px;
+	height: 500px;
+	margin-left: 30px;
+	background-color: #563F4F;
+	color: aliceblue;
+	float: left;
+	transition: all linear 0.6s;
+
+}
+
+.volunteer-img .box-02:hover {
+	background-color: #C4A2FC;
+}
+
+.volunteer-img .box-02 .image {
+	width: 300px;
+	height: 400px;
+	background-image: url(../images/volunteer02.png);
+	background-size: cover;
+
+}
+
+.volunteer-img .box-02 .details h3 {
+	display: block;
+	font-family: sans-serif;
+	font-size: 25px;
+	margin-top: 20px;
+	margin-left: 80px;
+
+}
+
+
+.volunteer-img .box-02 .title {
+	display: inline-block;
+	font-family: sans-serif;
+	margin-top: 20px;
+	margin-left: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.volunteer-img .box-03 {
+	width: 300px;
+	height: 500px;
+	margin-left: 30px;
+	background-color: #563F4F;
+	color: aliceblue;
+	float: left;
+	transition: all linear 0.6s;
+
+}
+
+.volunteer-img .box-03:hover {
+	background-color: #C4A2FC;
+}
+
+.volunteer-img .box-03 .image {
+	width: 300px;
+	height: 400px;
+	background-image: url(../images/volunteer03.png);
+	background-size: cover;
+
+}
+
+.volunteer-img .box-03 .details h3 {
+	display: block;
+	font-family: sans-serif;
+	font-size: 25px;
+	margin-top: 20px;
+	margin-left: 100px;
+
+}
+
+
+.volunteer-img .box-03 .title {
+	display: inline-block;
+	font-family: sans-serif;
+	margin-top: 20px;
+	margin-left: 120px;
+}
+
+/* ===========================================================
+volunteer ends
+============================================================== */
+
+
+
+
+
+
+
+/* ==========================================================
+FAQ Starts
+============================================================= */
+
+
+.Services-bg {
+	width: 100%;
+	Height: 250px;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+
+.Services-bg .content p {
+	color: #ff2f0a;
+	text-align: center;
+	font-size: 18px;
+	padding-top: 100px;
+	font-family: sans-serif;
+}
+
+.Services-bg .content01 p {
+	color: #1d1d1d;
+	text-align: center;
+	font-size: 50px;
+	font-family: sans-serif;
+}
+
+.FAQ-bg {
+	width: 100%;
+	Height: 600px;
+	background-color: #FFFFFF;
+
+}
+
+
+.FAQ-bg .FAQ-content {
+	width: 960px;
+	Height: 600px;
+	margin: 0 auto;
+}
+
+
+.FAQ-bg .FAQ-content .Box {
+	width: 465px;
+	Height: 600px;
+	float: left;
+}
+
+.FAQ-bg .FAQ-content .Box .box-01 {
+	width: 465px;
+	Height: 150px;
+	background-color: #f4f4f4;
+	border-bottom: 5px solid #C4A2FC;
+	box-sizing: border-box;
+	border-radius: 5px;
+}
+
+.FAQ-bg .FAQ-content .Box .box-01 .data h2 {
+	display: inline-block;
+	color: dimgray;
+	margin-left: 20px;
+	margin-top: 30px;
+	font-family: sans-serif;
+
+}
+
+.FAQ-bg .FAQ-content .Box .box-01 .data span {
+	display: block;
+	color: dimgray;
+	margin-left: 150px;
+	margin-top: 20px;
+	font-family: sans-serif;
+
+}
+
+
+.FAQ-bg .FAQ-content .Box .box-01 .sub-box {
+	width: 100px;
+	Height: 80px;
+	background-color: #C4A2FC;
+	float: left;
+	margin-left: 30px;
+	margin-top: 35px;
+	border-radius: 5px;
+
+}
+
+.FAQ-bg .FAQ-content .Box .box-01 .sub-box h1 {
+	display: block;
+	color: white;
+	font-size: 45px;
+	font-family: fantasy;
+	margin-top: 10px;
+	margin-left: 25px;
+}
+
+
+.FAQ-bg .FAQ-content .Box .box-02 {
+	width: 465px;
+	Height: 150px;
+	margin-top: 30px;
+	background-color: #f4f4f4;
+	border-bottom: 5px solid #C4A2FC;
+	box-sizing: border-box;
+}
+
+.FAQ-bg .FAQ-content .Box .box-02 .data h2 {
+	display: inline-block;
+	color: dimgray;
+	margin-left: 20px;
+	margin-top: 30px;
+	font-family: sans-serif;
+
+}
+
+.FAQ-bg .FAQ-content .Box .box-02 .data span {
+	display: block;
+	color: dimgray;
+	margin-left: 150px;
+	margin-top: 20px;
+	font-family: sans-serif;
+
+}
+
+.FAQ-bg .FAQ-content .Box .box-02 .sub-box {
+	width: 100px;
+	Height: 80px;
+	background-color: #C4A2FC;
+	float: left;
+	margin-left: 30px;
+	margin-top: 35px;
+	border-radius: 5px;
+
+}
+
+.FAQ-bg .FAQ-content .Box .box-02 .sub-box h1 {
+	display: block;
+	color: white;
+	font-size: 45px;
+	font-family: fantasy;
+	margin-top: 10px;
+	margin-left: 25px;
+}
+
+.FAQ-bg .FAQ-content .Box .box-03 {
+	width: 465px;
+	Height: 150px;
+	margin-top: 30px;
+	background-color: #f4f4f4;
+	border-bottom: 5px solid #C4A2FC;
+	box-sizing: border-box;
+}
+
+.FAQ-bg .FAQ-content .Box .box-03 .data h2 {
+	display: inline-block;
+	color: dimgray;
+	margin-left: 20px;
+	margin-top: 30px;
+	font-family: sans-serif;
+
+}
+
+.FAQ-bg .FAQ-content .Box .box-03 .data span {
+	display: block;
+	color: dimgray;
+	margin-left: 150px;
+	margin-top: 20px;
+	font-family: sans-serif;
+
+}
+
+.FAQ-bg .FAQ-content .Box .box-03 .sub-box {
+	width: 100px;
+	Height: 80px;
+	background-color: #C4A2FC;
+	float: left;
+	margin-left: 30px;
+	margin-top: 35px;
+	border-radius: 5px;
+
+}
+
+.FAQ-bg .FAQ-content .Box .box-03 .sub-box h1 {
+	display: block;
+	color: white;
+	font-size: 45px;
+	font-family: fantasy;
+	margin-top: 10px;
+	margin-left: 25px;
+}
+
+.FAQ-bg .FAQ-content .Box .btn a {
+	display: inline-block;
+	font-size: 20px;
+	color: #fff;
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	background-color: #563F4F;
+	border-radius: 5px;
+	transition: all linear 0.4s;
+}
+
+.FAQ-bg .FAQ-content .Box .btn a:hover {
+	background-color: #C4A2FC;
+}
+
+
+
+
+
+.FAQ-bg .FAQ-content .img {
+	width: 465px;
+	Height: 600px;
+	background-color: #FFFFFF;
+	float: left;
+	margin-left: 30px;
+
+}
+
+.FAQ-bg .FAQ-content .img .blog-1 {
+	height: 500px;
+	widows: 100%;
+	background-image: url(../images/blog-1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.FAQ-bg .FAQ-content .img .content {
+	height: 50px;
+	width: 100%;
+	background-color: tomato;
+
+}
+
+.FAQ-bg .FAQ-content .img .content h1 {
+	display: inline-block;
+	font-size: 25px;
+	margin-left: 20px;
+	line-height: 50px;
+	font-family: sans-serif;
+	color: aliceblue;
+}
+
+
+
+
+
+
+/* ===========================================================
+FAQ Ends
+============================================================== */
+
+
+
+
+/* ===========================================================
+Partners Starts
+============================================================== */
+
+.Partners-bg {
+	height: 400px;
+	width: 100%;
+	background-color: #fff;
+
+}
+
+.Partners-bg .Partners-content {
+	height: 400px;
+	width: 960px;
+	text-align: center;
+	color: #222222;
+	font-family: sans-serif;
+	margin: 0 auto;
+	font-size: 18px;
+	padding-top: 50px;
+
+
+}
+
+.Partners-bg .Partners-content .logo {
+	height: 200px;
+	width: 960px;
+}
+
+.Partners-bg .Partners-content .logo .logo-01 {
+	height: 150px;
+	width: 180px;
+	background-image: url(../images/partner-1.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	float: left;
+
+}
+
+.Partners-bg .Partners-content .logo .logo-02 {
+	height: 150px;
+	width: 180px;
+	background-image: url(../images/partner-2.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-left: 12px;
+	float: left;
+
+
+}
+
+.Partners-bg .Partners-content .logo .logo-03 {
+	height: 150px;
+	width: 180px;
+	background-image: url(../images/partner-3.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-left: 12px;
+	float: left;
+
+}
+
+.Partners-bg .Partners-content .logo .logo-04 {
+	height: 150px;
+	width: 180px;
+	background-image: url(../images/partner-4.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-left: 12px;
+	float: left;
+
+}
+
+.Partners-bg .Partners-content .logo .logo-05 {
+	height: 150px;
+	width: 180px;
+	background-image: url(../images/partner-5.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-left: 12px;
+	float: left;
+
+}
+
+
+.Partners-bg .Partners-content span {
+	background-color: #C4A2FC;
+	color: white;
+	padding-top: 1px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 1px;
+	border-right: 5px solid #222222;
+}
+
+.Partners-bg .Partners-content p {
+	text-align: center;
+	color: #535353;
+	font-family: sans-serif;
+	font-size: 15px;
+
+}
+
+
+/* ===========================================================
+Partners Ends
+============================================================== */
